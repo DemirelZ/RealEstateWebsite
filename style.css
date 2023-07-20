@@ -15,6 +15,9 @@
   .section-padding {
     padding: 50px 0;
   }
+  #services .card-body .btn{
+    padding: 10px 40px;
+  }
 .carousel-item{
     height: 100vh;
     min-height: 300px;
